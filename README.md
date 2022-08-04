@@ -38,9 +38,9 @@ Para ver a aplicação funcionando, abra o terminal do VsCode e digite o comando
 npx cypress open - Executa a suite de testes com o cypress.
 ```
 * Clique na opção E2E Testing 
-https://user-images.githubusercontent.com/92769459/182944491-8228acb3-9b8c-4b69-bd1c-a119bd605ff0.PNG
+!https://user-images.githubusercontent.com/89463362/163295743-1c5b727f-d43f-44b8-a70b-edb84ab44c9a.png
 * Selecione o Chrome e clique em Star E2E Testing in Chrome
-https://user-images.githubusercontent.com/92769459/182944559-0da7fe11-e931-4606-9d58-378ca6ef6092.PNG
+!https://user-images.githubusercontent.com/92769459/182944559-0da7fe11-e931-4606-9d58-378ca6ef6092.png
 * Clique em spec.cy.js para iniciar a suite de testes
-https://user-images.githubusercontent.com/92769459/182944586-9e9987c5-81dc-4cf1-8553-b47c47929e48.PNG
+!https://user-images.githubusercontent.com/92769459/182944586-9e9987c5-81dc-4cf1-8553-b47c47929e48.png
 
