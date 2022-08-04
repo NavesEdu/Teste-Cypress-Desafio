@@ -37,6 +37,7 @@ Para ver a aplicação funcionando, abra o terminal do VsCode e digite o comando
 ```
 npx cypress open - Executa a suite de testes com o cypress.
 ```
-Clique na opção E2E Testing, selecione o Chrome e clique em Star E2E Testing in Chrome
-Clique em spec.cy.js para iniciar a suite de testes
+* Clique na opção E2E Testing 
+* Selecione o Chrome e clique em Star E2E Testing in Chrome
+* Clique em spec.cy.js para iniciar a suite de testes
 
