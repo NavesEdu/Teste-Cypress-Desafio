@@ -6,11 +6,7 @@
 
 ## 💻 Sobre
 
-Este é um projeto usando React e Typescript para consumir uma API REST do github.
-
-Consiste em uma aplicação que fará buscas de repositórios no github pesquisando usuário/repositório e exibe as informações básicas no front-end.
-
-A seguir você poderá ver como é a aparência da aplicação quando rodando na web, utilizando o browser google chrome:
+Este é um projeto usando Cypress para criação de uma suite de testes para testar a interface do site https://front.serverest.dev/login, nesse projeto são testadas as funcionaldiades de realizar login na aplicação com / sem sucesso, utilizando o browser google chrome:
 <br/>
 
 ## 🚀 Como executar
