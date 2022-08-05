@@ -6,7 +6,7 @@
 
 ## 💻 Sobre
 
-Este é um projeto usando Cypress para criação de uma suite de testes para testar a interface do site https://front.serverest.dev/login, nesse projeto são testadas as funcionaldiades de realizar login na aplicação com / sem sucesso, utilizando o browser google chrome:
+Este é um projeto usando Cypress para criação de uma suite de testes para testar a interface do site https://front.serverest.dev/login, nesse projeto são testadas as funcionalidades de realizar login na aplicação com / sem sucesso, utilizando o browser google chrome:
 </p>
 <p aligng="center">
   <img width"450" height="300" src="to_ReadME/readme4.png">
