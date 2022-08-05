@@ -12,9 +12,9 @@ context("ServeRest", () => {
 
   it('Fazer login na aplicação com sucesso', () => {
     cy.visit("https://front.serverest.dev/login")
-    cy.get("input#email.form-control").type("eduardo.naves@ges.inatel.br")
+    cy.get("input#email.form-control").type("fulano@qa.com")
     cy.get("input#password.form-control")
-      .type("123456789")      
+      .type("teste")      
     cy.get("button.btn.btn-primary").click()
 });
 });
