@@ -7,6 +7,10 @@
 ## 💻 Sobre
 
 Este é um projeto usando Cypress para criação de uma suite de testes para testar a interface do site https://front.serverest.dev/login, nesse projeto são testadas as funcionaldiades de realizar login na aplicação com / sem sucesso, utilizando o browser google chrome:
+</p>
+<p aligng="center">
+  <img width"450" height="300" src="to_ReadME/readme4.png">
+</p>
 <br/>
 
 ## 🚀 Como executar
@@ -38,9 +42,18 @@ Para ver a aplicação funcionando, abra o terminal do VsCode e digite o comando
 npx cypress open - Executa a suite de testes com o cypress.
 ```
 * Clique na opção E2E Testing 
-
+</p>
+<p aligng="center">
+  <img width"450" height="300" src="to_ReadME/readme1.png">
+</p>
 * Selecione o Chrome e clique em Star E2E Testing in Chrome
-
+</p>
+<p aligng="center">
+  <img width"450" height="300" src="to_ReadME/readme2.png">
+</p>
 * Clique em spec.cy.js para iniciar a suite de testes
-
+</p>
+<p aligng="center">
+  <img width"450" height="300" src="to_ReadME/readme3.png">
+</p>
 
